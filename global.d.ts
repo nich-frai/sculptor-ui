@@ -1,1 +1,1 @@
-/// <reference types="histoire" />
+/// <reference types="svelte" />
